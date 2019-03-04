@@ -1,0 +1,14 @@
+/* font-family: 'Roboto', sans-serif;
+font-family: 'Fira Sans', sans-serif; */
+
+#nav-bar-title, .navbar-brand{
+    height: 20px;
+
+}
+
+#nav-bar-title{
+    margin-top: -10px;
+}
+ #welcome{
+     background-image: url(/home/laboratoriad310/Descargas/chatting-cups-dog-745045.jpg);
+ }
